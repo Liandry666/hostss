@@ -87,6 +87,12 @@
 0.0.0.0 www.softmajhe.com
 0.0.0.0 www.apathe.net
 0.0.0.0 apathe.net
+0.0.0.0 www.apathe.net
+0.0.0.0 apathe.net
+0.0.0.0 apathe.org
+0.0.0.0 www.apathe.org
+0.0.0.0 apathe.com
+0.0.0.0 www.apathe.com
 0.0.0.0 secretcheats.net
 0.0.0.0 www.secretcheats.net
 0.0.0.0 xorbyte.org	
