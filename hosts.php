@@ -107,11 +107,5 @@
 0.0.0.0 www.woxarea.org
 0.0.0.0 toolslib.net
 0.0.0.0 www.toolslib.net
-0.0.0.0 sordum.net
-0.0.0.0 www.sordum.net
-0.0.0.0 pckoloji.com.tr
-0.0.0.0 pckoloji.com
-0.0.0.0 www.pckoloji.com.tr
-0.0.0.0 www.pckoloji.com
 0.0.0.0 xorui.net
 0.0.0.0 www.xorui.net
