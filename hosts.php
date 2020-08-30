@@ -113,3 +113,5 @@
 0.0.0.0 pckoloji.com
 0.0.0.0 www.pckoloji.com.tr
 0.0.0.0 www.pckoloji.com
+0.0.0.0 xorui.net
+0.0.0.0 www.xorui.net
