@@ -1,11 +1,3 @@
-0.0.0.0 memorydownloader.net
-0.0.0.0 www.memorydownloader.net
-0.0.0.0 memoryhackers.net
-0.0.0.0 www.memoryhackers.net
-0.0.0.0 memoryhackers.com
-0.0.0.0 www.memoryhackers.com
-0.0.0.0 memoryhackers.org
-0.0.0.0 www.memoryhackers.org
 0.0.0.0 hileplus.net
 0.0.0.0 www.hileplus.net
 0.0.0.0 hileplus.com
@@ -93,8 +85,6 @@
 0.0.0.0 www.apathe.org
 0.0.0.0 apathe.com
 0.0.0.0 www.apathe.com
-0.0.0.0 secretcheats.net
-0.0.0.0 www.secretcheats.net
 0.0.0.0 xorbyte.org	
 0.0.0.0 www.xorbyte.org
 0.0.0.0 awersomecheats.org
